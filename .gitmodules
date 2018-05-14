@@ -1,0 +1,3 @@
+[submodule "deliverables/5/app"]
+	path = deliverables/5/app
+	url = https://github.com/lstig/IS436-IWMS
